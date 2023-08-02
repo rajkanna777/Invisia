@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Invisia</string>
+    <string name="list_image">Image List</string>
+    <string name="fav_list">Favorites Image List</string>
+</resources>
